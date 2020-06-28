@@ -1,0 +1,74 @@
+@-moz-document url-prefix("https://b.hatena.ne.jp/") {
+
+.center-container {
+    max-width: 840px;
+}
+
+.centerarticle-reaction-main-comment-tags {
+    display: inline;
+}
+
+.centerarticle-reaction-foot {
+    float: right;
+}
+
+.centerarticle-reaction-image {
+    width: 16px;
+    height: 16px;
+}
+
+.hatena-star-btn-container {
+    height: initial;
+}
+
+.centerarticle-reaction-delete, .centerarticle-reaction-edit {
+    height: initial;
+}
+
+.centerarticle-reaction-foot {
+    margin: 0px;
+}
+
+.centerarticle-entry-image {
+    top: -20px;
+}
+
+.centerarticle-reaction-comment {
+    padding: 8px;
+    min-height: initial;   
+}
+
+.centerarticle-entry {
+    margin: 0px;
+}
+
+.centerarticle-entry-contents {
+    margin: 0px;
+}
+
+.centerarticle-reaction {
+    margin: 0px;
+}
+
+.centerarticle-entry-title {
+    margin: 0px;
+}
+
+.is-image-entry-unit .centerarticle-entry-contents {
+    min-height: 48px;
+}
+
+.centerarticle-entry-title {
+    display: inline;
+}
+
+.js-keyboard-entry-page-openable {
+    font-size: 11px;
+}
+
+.centerarticle-entry-data {
+    padding-left: 4px;
+    font-size: 11px;
+    vertical-align: top;
+}
+}
